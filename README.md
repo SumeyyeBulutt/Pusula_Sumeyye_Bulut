@@ -3,11 +3,17 @@ Bu proje ilaç yan etkilerini analiz eden bir veri bilimi çalışmasıdır. Pyt
 Tarihler, kişisel bilgiler, yan etkiler ve kronik hastalıklar gibi bilgileri içerir. Bu veriler olası yan etkileri tahmin etmek amacıyla kullanılacak şekilde hazırlanmıştır.
 
 KULLANILAN TEKNOLOJİLER
+
 Python
+
 Jupyter Notebook (VS Code ile)
+
 Pandas, Matplotlib, Seaborn
+
 scikit-learn
 
 PROJE YAPISI
-side_effect_data.xlsx : İlaç yan etkileriyle ilgili veri seti
+
+side_effect_data.xlsx : İlaç yan etkileriyle ilgili veri seti 
+
 side_effect_data.ipynb : Proje dosyası
